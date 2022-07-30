@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T08:22:35.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="VzfnzBzLbB5eI-Rv-St8" type="github"><diagram id="SN0HrIPLJwNbH93bz56C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-30T08:30:53.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3QKUbMVi5yu3IQz-a21Z" version="20.2.2" type="github">
+  <diagram id="SN0HrIPLJwNbH93bz56C" name="페이지-1">
+    <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SThcu8EY5G5zrQcvq7MS-1" value="이용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThcu8EY5G5zrQcvq7MS-2" value="게시판 서비스" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=30;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="620" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SThcu8EY5G5zrQcvq7MS-3" value="회원 가입" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SThcu8EY5G5zrQcvq7MS-5" value="게시판 보기" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SThcu8EY5G5zrQcvq7MS-6" value="게시글 보기" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SThcu8EY5G5zrQcvq7MS-7" value="회원 로그인&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%ED%9A%8C%EC%9B%90%20%EA%B0%80%EC%9E%85%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BarcSize%3D40%3BfontColor%3D%23000000%3BfillColor%3D%23ffffc0%3BstrokeColor%3D%23ff0000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22200%22%20y%3D%22120%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SThcu8EY5G5zrQcvq7MS-8" value="인증" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SThcu8EY5G5zrQcvq7MS-9" value="로그인 실패" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
